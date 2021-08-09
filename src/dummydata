@@ -1,0 +1,74 @@
+products = [
+ {
+ productName: '시크릿 레이스바디수트[66~99]1111',
+ productPrice: 13800,
+ imageUrl:
+ 'https://www.hotping.co.kr/web/product/big/202011/7f3470c215182a31cc78483390741f5a.jpg',
+ productDetailUrl:
+ 'https://www.hotping.co.kr/product/detail.html?product_no=30434',
+ },
+ {
+ productName: '활용도좋은 폴라티셔츠[44~100]1111',
+ productPrice: 9800,
+ imageUrl:
+ 'https://www.hotping.co.kr/web/product/big/202012/0277ce64aa57b7feff90d0e661156744.jpg',
+ productDetailUrl:
+ 'https://www.hotping.co.kr/product/detail.html?product_no=30434',
+ },
+ {
+ productName: '피플즈_바지 투피스세트[44~100]1111',
+ productPrice: 19800,
+ imageUrl:
+ 'https://www.hotping.co.kr/web/product/big/202010/b69a475f3a34b37af6614582250c5393.jpg',
+ productDetailUrl:
+ 'https://www.hotping.co.kr/product/detail.html?product_no=30434',
+ },
+ {
+ productName: '시크릿 레이스바디수트2222',
+ productPrice: 13800,
+ imageUrl:
+ 'https://www.hotping.co.kr/web/product/big/202011/7f3470c215182a31cc78483390741f5a.jpg',
+ productDetailUrl:
+ 'https://www.hotping.co.kr/product/detail.html?product_no=30434',
+ },
+ {
+ productName: '활용도좋은 폴라티셔츠2222',
+ productPrice: 9800,
+ imageUrl:
+ 'https://www.hotping.co.kr/web/product/big/202012/0277ce64aa57b7feff90d0e661156744.jpg',
+ productDetailUrl:
+ 'https://www.hotping.co.kr/product/detail.html?product_no=30434',
+ },
+ {
+ productName: '피플즈_바지 투피스세트22222',
+ productPrice: 19800,
+ imageUrl:
+ 'https://www.hotping.co.kr/web/product/big/202010/b69a475f3a34b37af6614582250c5393.jpg',
+ productDetailUrl:
+ 'https://www.hotping.co.kr/product/detail.html?product_no=30434',
+ },
+ {
+ productName: '시크릿 레이스바디수트3333',
+ productPrice: 13800,
+ imageUrl:
+ 'https://www.hotping.co.kr/web/product/big/202011/7f3470c215182a31cc78483390741f5a.jpg',
+ productDetailUrl:
+ 'https://www.hotping.co.kr/product/detail.html?product_no=30434',
+ },
+ {
+ productName: '활용도좋은 폴라티셔츠3333',
+ productPrice: 9800,
+ imageUrl:
+ 'https://www.hotping.co.kr/web/product/big/202012/0277ce64aa57b7feff90d0e661156744.jpg',
+ productDetailUrl:
+ 'https://www.hotping.co.kr/product/detail.html?product_no=30434',
+ },
+ {
+ productName: '피플즈_바지 투피스세트3333',
+ productPrice: 19800,
+ imageUrl:
+ 'https://www.hotping.co.kr/web/product/big/202010/b69a475f3a34b37af6614582250c5393.jpg',
+ productDetailUrl:
+ 'https://www.hotping.co.kr/product/detail.html?product_no=30434',
+ },
+ ];

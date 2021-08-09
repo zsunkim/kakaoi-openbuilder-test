@@ -7,9 +7,7 @@ export class AppController {
   constructor(private readonly appService: AppService) {}
 
   @Post('skill')
-  @UseInterceptors(LoggingInterceptor)
   getStart(@Req() req) {
-    // console.log(req.body);
     if (req.body.action.params.skillRouteUrl == 'start') {
       return this.appService.getStart();
     } else if (req.body.action.params.skillRouteUrl == 'test') {
